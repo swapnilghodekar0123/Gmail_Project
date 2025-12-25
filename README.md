@@ -57,7 +57,7 @@ myproject/
 
 Clone the repository:
 
-git clone https://github.com/swapnilghodeark/gmail-console-app.git
+git clone https://github.com/swapnilghodekar0123/Gmail_Project.git
 
 
 Open the project in any Java IDE
@@ -137,6 +137,6 @@ Email validation improvements
 
 👨‍💻 Author
 
-Your Name
+Swapnil Ghodekar
 
 Java Developer (Beginner Project)
